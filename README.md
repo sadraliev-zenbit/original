@@ -1,5 +1,5 @@
 # original
 
-# added develop branch
+# update develop branch
 
 # develop branch to target repository
